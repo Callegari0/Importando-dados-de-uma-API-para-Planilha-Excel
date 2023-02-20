@@ -13,4 +13,4 @@ Após instalar o Node, basta seguir estes passos:
 
 4. Após esses procedimentos, será criado um arquivo xlsx (excel) na pasta onde o script está localizado e nele estarão alguns dados provenientes da API do GitHub, separados por colunas (Login, Id, URL do Perfil).
 
-5. Caso esse script seja executado novamente, sem o nome e o local do arquivo xlsx serem alterados, será como se fosse feito um "refresh" e os dados serão atualizados no mesmo arquivo, sem a criação de um novo.
+5. Caso esse script seja executado novamente, sem o nome do arquivo no código e o local dele, após ser gerado, serem alterados, será como se fosse feito um "refresh" e os dados serão atualizados no mesmo arquivo, sem a criação de um novo.
